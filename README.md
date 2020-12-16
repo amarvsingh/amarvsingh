@@ -4,4 +4,5 @@
 
 ![Alt Text](https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif)
 
+[![Amar's github stats](https://github-readme-stats.vercel.app/api?username=amarvsingh)](https://github.com/anuraghazra/github-readme-stats)
 
